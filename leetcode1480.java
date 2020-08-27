@@ -1,7 +1,7 @@
 package com.ywt.leetcode;
 
 import java.util.Arrays;
-
+//一维数组的动态和
 public class Code1480 {
     public int[] runningSum(int[] nums) {
         for (int i = 1; i < nums.length; i++) {
